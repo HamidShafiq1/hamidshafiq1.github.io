@@ -20,7 +20,7 @@ Cybersecurity Student · Ethical Hacking · OSINT · Offensive Security
 
 > *"Understand the system. Break the system. Secure the system."*
 
-- 🎓 BS Cybersecurity student @ University of Haripur, KPK — Semester 4 | Roll No. DHC-40
+- 🎓 BS Cybersecurity student @ University of Haripur
 - 🔐 Focused on Ethical Hacking, Offensive Security, OSINT, and Penetration Testing
 - 🏴 CTF Competitor — Team **0UTL4W3D**
 - 📍 Based in Wah Cantt, Punjab, Pakistan
@@ -54,7 +54,7 @@ Live portfolio site built with pure HTML, CSS, and vanilla JS — no frameworks,
 ### 🔢 Scientific Calculator (C++17)
 Multi-file C++17 scientific calculator with live GitHub Pages web interface. Covers modular design, OOP principles, and clean build architecture.  
 `C++17` `OOP` `GitHub Pages` `Multi-file Architecture`  
-[🔗 hamidshafiq1/scientific-calculator-cpp](https://github.com/hamidshafiq1/scientific-calculator-cpp)
+[🔗 hamidshafiq1/scientific-calculator-cpp](https://github.com/hamidshafiq1/scientific-calculator)
 
 ---
 
